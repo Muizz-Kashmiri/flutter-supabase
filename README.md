@@ -1,16 +1,12 @@
 # supabase_learn
 
-A new Flutter project.
+For learning purpose opened up supabase and started integrating it in flutter
 
 ## Getting Started
+A simple application in which you can find Database page using CRUD operations with People table on supabase. 
+You can store names of people in it. Added a simple FAB for adding users and a dismissable to delete.
 
-This project is a starting point for a Flutter application.
+A realtime page in which we get real-time update from supbase table Quotes.
+A Fab is added which gets a random anime quote and sends it to supabase and a StreamBuilder beautifully prints it on screen.
+You can delete by dismissing it as well.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
